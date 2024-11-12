@@ -1,0 +1,7 @@
+path: E:/Py_code/yolov8/dataset_v2
+train: E:/Py_code/yolov8/dataset_v2/train/images
+val: E:/Py_code/yolov8/dataset_v2/val/images
+test: E:/Py_code/yolov8/dataset_v2/test/images
+
+nc: 2
+names: ['equation', 'w']
